@@ -15,5 +15,6 @@
 
 ### If sklearn is not updated then use
 * pip3 install sklearn --upgrade
+
 sklearn version should be >=0.19.1
 
