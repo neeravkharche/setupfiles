@@ -2,6 +2,7 @@
 
 sudo apt-get install git
 
+cd ~/git_repos
 sh ./clone_git_repos.sh
 sh ./vim_setup.sh
 
