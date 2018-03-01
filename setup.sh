@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
 
-sudo apt-get install git
-
 cd ~/git_repos
 sh ./setupfiles/clone_git_repos.sh
 sh ./setupfiles/vim_setup.sh
