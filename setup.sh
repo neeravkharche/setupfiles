@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
 cd ~/git_repos
-sh ./setupfiles/clone_git_repos.sh
-sh ./setupfiles/vim_setup.sh
+sh ~/setupfiles/clone_git_repos.sh
+sh ~/setupfiles/vim_setup.sh
 
 # copy vimrc to homw folder
 cp ~/git_repos/setupfiles/vimrc ~/.vimrc
